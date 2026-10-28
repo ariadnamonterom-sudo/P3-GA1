@@ -1,0 +1,9 @@
+[ 
+
+  { "id": 1, "name": "Elixir de la eternidad", "effect": "Vida eterna", "expirationDate": "2025-10-31" }, 
+
+  { "id": 2, "name": "Brebaje de invisibilidad", "effect": "Invisibilidad temporal", "expirationDate": "2023-12-01" }, 
+
+  { "id": 3, "name": "Tónico de calabaza", "effect": "Piel naranja brillante", "expirationDate": "2026-12-15" } 
+
+] 

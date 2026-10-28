@@ -1,0 +1,9 @@
+[ 
+
+  { "id": 1, "name": "Drácula", "species": "Vampiro", "scareLevel": 9 }, 
+
+  { "id": 2, "name": "Frankenstein", "species": "Monstruo", "scareLevel": 7 }, 
+
+  { "id": 3, "name": "La Momia", "species": "No-muerto", "scareLevel": 6 } 
+
+]

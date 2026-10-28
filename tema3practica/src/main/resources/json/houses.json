@@ -1,0 +1,9 @@
+[ 
+
+  { "id": 1, "name": "Mansión Tenebrosa", "open": true, "scareLevel": 8}, 
+
+  { "id": 2, "name": "Casa del Eco Eterno", "open": false, "scareLevel": 10 }, 
+
+  { "id": 3, "name": "Refugio del Cuervo", "open": true, "scareLevel": 5 } 
+
+] 
